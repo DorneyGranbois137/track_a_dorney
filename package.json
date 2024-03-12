@@ -1,0 +1,26 @@
+{
+  "name": "track_a_dorney",
+  "version": "1.0.0",
+  "description": "Track_A tracks and calculates averages accurately, facilitating mean calculation processes effectively, ensuring dependable results for your statistical analyses.",
+  "main": "average.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0",
+    "track_a_dorney": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DorneyGranbois137/track_a_dorney.git"
+  },
+  "homepage": "https://github.com/DorneyGranbois137/track_a_dorney/blob/main/README.md",
+  "keywords": [
+    "average",
+    "calculate",
+    "math"
+  ],
+  "author": "DorneyGranbois137",
+  "license": "MIT"
+}
